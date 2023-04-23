@@ -11,6 +11,9 @@ Collecting notes for teaching material.
 - http://laboratoridenvol.com/paragliderdesign/index.html
 - https://www.av8n.com/how/
 - https://www.kimerius.com/app/download/5784129567/Aerodynamics+for+professional+pilots.pdf
+- https://aviation.stackexchange.com/questions/53437/does-pendulum-effect-apply-to-hang-gliders-or-any-aircraft/
+- https://www.diva-portal.org/smash/get/diva2:1359785/FULLTEXT01.pdf
+- https://core.ac.uk/download/pdf/217174379.pdf
 
 
 ## Outline (2 hours course)
