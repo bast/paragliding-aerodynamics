@@ -95,3 +95,13 @@ Text: CC-BY 4.0
 ---
 
 (composition of drag: lines, harness, wing, ...)
+
+---
+
+## Brake application
+
+<img src="img/brake-deflection.png"
+     alt="Deflection when brake lines are pulled"
+     style="width: 600px;" />
+
+.cite[[R. Falquier, T. Lolies, U. Ringertz, Longitudinal Flight Mechanics of Paraglider Systems](https://www.diva-portal.org/smash/get/diva2:1359785/FULLTEXT01.pdf)]
