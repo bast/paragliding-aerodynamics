@@ -66,3 +66,17 @@ Text: CC-BY 4.0
 - stability design
 - different mechanism to change angle of attack
 - steering
+
+---
+
+<img src="img/lift-drag-coefficients.png"
+     alt="Lift and drag coefficients"
+     style="width: 600px;" />
+
+.cite[[Pilot’s Handbook of Aeronautical Knowledge, Chapter 5, Aerodynamics of Flight, FAA-H-8083-25B](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/07_phak_ch5.pdf)]
+
+- Data is for a specific airfoil
+- Increasing angle of attack (AOA) -> increasing drag and increasing lift
+- There is an AOA with optimal glide (optimal L/D ratio)
+- A paraglider is typically trimmed to fly close to optimal glide when hands-up
+- At a certain AOA, this airfoil stalls
