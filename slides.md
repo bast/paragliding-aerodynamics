@@ -54,11 +54,11 @@ Text: CC-BY 4.0
 
 - wing is flexible/collapsible
 - wing is open in front: cell intakes
-- there is pressure inside the wing
+- there is pressure inside the wing and it varies
 - we can change the size of wing during the flight (voluntarily or involuntarily)
 - "fuselage" is 8 m below the wing: human is the pendulum
 - reducing wing loading can make wing collapse
-- connection between human and wing is not fixed (can get slack): inverted flight not possible, nose-dive requires spiraling
+- connection between human and wing is not fixed (slack/tension): inverted flight not possible, nose-dive requires spiraling
 - thrust comes from gravity
 - altitude is the fuel
 - airflow typically comes from below, not from front
