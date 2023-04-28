@@ -80,3 +80,18 @@ Text: CC-BY 4.0
 - There is an AOA with optimal glide (optimal L/D ratio)
 - A paraglider is typically trimmed to fly close to optimal glide when hands-up
 - At a certain AOA, this airfoil stalls
+
+---
+
+<img src="img/drag-vs-speed.png"
+     alt="Drag vs. speed"
+     style="width: 600px;" />
+
+.cite[[Pilot’s Handbook of Aeronautical Knowledge, Chapter 5, Aerodynamics of Flight, FAA-H-8083-25B](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/07_phak_ch5.pdf)]
+
+- There is an airspeed with optimal glide (minimum drag)
+- A paraglider is typically trimmed to fly close to minimal drag when hands-up (and no speed bar applied)
+
+---
+
+(composition of drag: lines, harness, wing, ...)
