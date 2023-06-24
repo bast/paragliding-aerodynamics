@@ -141,6 +141,7 @@ Text: CC-BY 4.0
 - trim speed is close to best glide ("hands up")
 - beginners on modern gliders: do not try to optimize sink with brake application
 - min sink is not the same as optimal glide (max distance)
+- great video: [Andre Bandarra: Polar Curves - Basics](https://www.youtube.com/watch?v=LoTmNHhoQaA)
 
 ---
 
@@ -149,6 +150,8 @@ Text: CC-BY 4.0
 <img src="plots/wing-comparison.svg"
      alt="Polar curves on different gliders"
      style="width: 600px;" />
+
+.cite[inspired by the article "Staying in touch" by Bastienne Wentzel in the Cross Country Magazine (October 2022)]
 
 - pushing speed bar increases speed (increases lit) but also reduces AOA (reduces lift)
 - modern gliders and higher performance gliders compensate the two better
