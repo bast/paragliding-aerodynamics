@@ -105,3 +105,103 @@ Text: CC-BY 4.0
      style="width: 600px;" />
 
 .cite[[R. Falquier, T. Lolies, U. Ringertz, Longitudinal Flight Mechanics of Paraglider Systems](https://www.diva-portal.org/smash/get/diva2:1359785/FULLTEXT01.pdf)]
+
+---
+
+## Glide ratio
+
+(add image)
+
+- glide ratio = distance / altitude loss
+- typically ~ 10
+- launching from 1000 m in still air, no lift or sink, how far can you glide?
+- **glide ratio changes with speed** (brake application or speed bar)
+- we always glide "down", even when thermalling (surrounding air then rises faster than we sink)
+- sail planes can reach glide ratio of 50-60
+
+---
+
+## Glide polar curve
+
+<img src="plots/important-points.svg"
+     alt="Glide polar curve and important points along the curve"
+     style="width: 600px;" />
+
+- polar curve: relation between horizontal speed and vertical speed
+- horizontal speed (brake application or speed bar) and vertical speed are **not independent**
+
+---
+
+<img src="plots/important-points.svg"
+     alt="Glide polar curve and important points along the curve"
+     style="width: 400px;" />
+
+- slower than min speed: stall!
+- reducing A lines beyond max speed: frontal collapse
+- trim speed is close to best glide ("hands up")
+- beginners on modern gliders: do not try to optimize sink with brake application
+- min sink is not the same as optimal glide (max distance)
+
+---
+
+## Polar curves on different gliders
+
+<img src="plots/wing-comparison.svg"
+     alt="Polar curves on different gliders"
+     style="width: 600px;" />
+
+- pushing speed bar increases speed (increases lit) but also reduces AOA (reduces lift)
+- modern gliders and higher performance gliders compensate the two better
+- high performance gliders are faster; applying speed bar leads to less sink
+- there has been a lot of progress in the last 10 years
+
+---
+
+## Flying against headwind
+
+<img src="plots/polar-headwind.svg"
+     alt="Polar curve moved by headwind"
+     style="width: 400px;" />
+
+- push speed bar for best glide
+
+---
+
+## Flying with tailwind
+
+<img src="plots/polar-tailwind.svg"
+     alt="Polar curve moved by tailwind"
+     style="width: 400px;" />
+
+- hands up for best glide
+
+---
+
+## Flying in lifting air
+
+<img src="plots/polar-lift.svg"
+     alt="Polar curve moved by lifting air"
+     style="width: 400px;" />
+
+- hands up for best glide
+
+---
+
+## Flying in sinking air
+
+<img src="plots/polar-sink.svg"
+     alt="Polar curve moved by sinking air"
+     style="width: 400px;" />
+
+- push speed bar for best glide
+
+---
+
+## Effect of adding weight
+
+<img src="plots/polar-adding-weight.svg"
+     alt="Polar curve moved by adding weight"
+     style="width: 400px;" />
+
+- glide is unchanged but speeds goes up (also the stall speed)
+- adding a lot of weight might change shape which would change glide
