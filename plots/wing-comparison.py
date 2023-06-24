@@ -1,6 +1,5 @@
 from data import data
 from colors import colors
-from interpolation import fit
 
 import plotly.graph_objects as go
 
@@ -11,12 +10,12 @@ color_iterator = iter(colors.items())
 
 for name, points in data.items():
     xs, ys = zip(*points)
-    xs_fit, ys_fit = fit(xs, ys)
     fig.add_trace(
         go.Scatter(
-            x=xs_fit,
-            y=ys_fit,
+            x=xs,
+            y=ys,
             mode="lines",
+            line_shape="spline",
             name=name,
         )
     )
