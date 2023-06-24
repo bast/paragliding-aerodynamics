@@ -29,7 +29,6 @@ for name, points in data.items():
 fig.update_xaxes(
     title_text="Horizontal speed (m/s)",
     range=[0, 20],
-    title_standoff=0,
     ticks="outside",
     tickcolor="lightgray",
     ticklen=10,
@@ -39,11 +38,12 @@ fig.update_xaxes(
 fig.update_yaxes(
     title_text="Vertical speed (m/s)",
     range=[-2.5, 0],
-    title_standoff=0,
     ticks="outside",
     tickcolor="lightgray",
     ticklen=10,
     tickformat=".1f",
 )
+
+fig.update_layout(margin=dict(l=0, r=0, t=0, b=0), width=800, height=400)
 
 fig.write_image("wing-comparison.svg")

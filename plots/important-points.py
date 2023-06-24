@@ -28,8 +28,7 @@ fig.update_traces(
 
 fig.update_xaxes(
     title_text="Horizontal speed (m/s)",
-    range=[0, 15],
-    title_standoff=0,
+    range=[0, 16],
     ticks="outside",
     tickcolor="lightgray",
     ticklen=10,
@@ -39,7 +38,6 @@ fig.update_xaxes(
 fig.update_yaxes(
     title_text="Vertical speed (m/s)",
     range=[-1.75, 0],
-    title_standoff=0,
     ticks="outside",
     tickcolor="lightgray",
     ticklen=10,
@@ -77,6 +75,6 @@ for name, (x, y) in points.items():
         ay=40,
     )
 
-fig.update_layout(showlegend=False)
+fig.update_layout(showlegend=False, margin=dict(l=0, r=0, t=0, b=0))
 
 fig.write_image("important-points.svg")

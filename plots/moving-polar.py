@@ -20,25 +20,27 @@ displacements_and_glides = [
 for (dx, dy), (gx, gy), name in displacements_and_glides:
     fig = go.Figure()
 
-    fig.update_layout(showlegend=False, width=800, height=800)
+    fig.update_layout(showlegend=False, width=800, height=800, margin=dict(l=0, r=0, t=0, b=0))
 
     fig.update_xaxes(
         title_text="Horizontal speed (m/s)",
         range=[0, 20],
-        title_standoff=0,
         ticks="outside",
         tickcolor="lightgray",
         ticklen=10,
+        tickfont=dict(size=20),
+        titlefont=dict(size=20),
         side="top",
     )
 
     fig.update_yaxes(
         title_text="Vertical speed (m/s)",
         range=[-3.5, 0],
-        title_standoff=0,
         ticks="outside",
         tickcolor="lightgray",
         ticklen=10,
+        tickfont=dict(size=20),
+        titlefont=dict(size=20),
         tickformat=".1f",
     )
 
