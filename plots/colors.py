@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023 Radovan Bast <radovan.bast@uit.no>
+#
+# SPDX-License-Identifier: MIT
+
 # https://jfly.uni-koeln.de/color/
 colors = {
     #   "black": "rgb(0, 0, 0)",

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023 Radovan Bast <radovan.bast@uit.no>
+#
+# SPDX-License-Identifier: MIT
+
 # this is fantasy data inspired by the article "Staying in touch" by Bastienne
 # Wentzel in the Cross Country Magazine (October 2022)
 
