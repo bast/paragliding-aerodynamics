@@ -16,7 +16,6 @@ data["2023 beginner wing"] = [
     (14.45, -1.5),
 ]
 
-
 data["2023 advanced wing"] = [
     (7.65, -1.0),
     (8.35, -0.85),
@@ -27,7 +26,6 @@ data["2023 advanced wing"] = [
     (18.35, -1.4),
 ]
 
-
 data["2013 beginner wing"] = [
     (6.1, -1.6),
     (6.95, -1.3),
@@ -36,7 +34,6 @@ data["2013 beginner wing"] = [
     (11.1, -1.5),
     (12.5, -2.3),
 ]
-
 
 data["2013 advanced wing"] = [
     (6.95, -1.3),
