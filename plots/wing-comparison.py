@@ -7,7 +7,6 @@ from colors import colors
 
 import plotly.graph_objects as go
 
-
 fig = go.Figure()
 
 color_iterator = iter(colors.items())

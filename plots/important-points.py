@@ -7,10 +7,10 @@ from colors import colors
 
 import plotly.graph_objects as go
 
+xs, ys = zip(*data["2023 beginner wing"])
 
 fig = go.Figure()
 
-xs, ys = zip(*data["2023 beginner wing"])
 fig.add_trace(
     go.Scatter(
         x=xs,
@@ -20,8 +20,10 @@ fig.add_trace(
         name="polar",
     )
 )
+
 fig.update_traces(
-    selector=dict(name="polar"), line=dict(width=4, color=colors["reddishpurple"])
+    selector=dict(name="polar"),
+    line=dict(width=4, color=colors["reddishpurple"]),
 )
 
 fig.update_xaxes(
@@ -43,7 +45,6 @@ fig.update_yaxes(
     ticklen=10,
     tickformat=".1f",
 )
-
 
 points = {
     "min speed": (7.65, -1.2),
