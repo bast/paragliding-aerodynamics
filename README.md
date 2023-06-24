@@ -18,36 +18,34 @@ Collecting notes for teaching material.
 
 ## Outline (2 hours course)
 
-- Why does it fly?
-- Similarities and differences with airplanes
-- What affects lift: speed, angle of attack, area, shape, aspect
-- Forces
-- Drag
-   - Contributions to drag
-   - How speed affects drag
-- Angle of attack
-- What changes angle of attack
-- Speed bar
-- Application of brake/ steering lines
-   - They change the camber
-- Glide ratio
-- Polar
-- Stall
-- Spin
-- Trim
-   - Trim speed
-   - To be in trim or out of trim
-- Wing loading
-- Wing loading vs. stall speed
-- What modifies wing loading
-- Turn and sink rate
-- Spiral
-- Pitch stability
-- Roll stability
-- Yaw stability
-- Coupling of pitch, roll, yaw
-- Weight shifting
-- Shape and internal pressure
-- Aspect ratio
-- Gliding in climbing and sinking air
-- Speed bar in climbing and sinking air
+- [ ] Why does it fly?
+- [x] Similarities and differences with airplanes
+- [ ] What affects lift: speed, angle of attack, area, shape, aspect
+- [ ] Forces
+- [ ] Drag
+   - [ ] Contributions to drag
+   - [ ] How speed affects drag
+- [ ] Angle of attack
+- [ ] What changes angle of attack
+- [ ] Speed bar
+- [ ] Application of brake/ steering lines
+   - [ ] They change the camber
+- [x] Glide ratio
+- [x] Polar
+- [ ] Stall
+- [ ] Spin
+- [ ] Trim
+   - [ ] Trim speed
+   - [ ] To be in trim or out of trim
+- [ ] Wing loading
+- [ ] Wing loading vs. stall speed
+- [ ] What modifies wing loading
+- [ ] Turn and sink rate
+- [ ] Spiral
+- [ ] Pitch stability
+- [ ] Roll stability
+- [ ] Yaw stability
+- [ ] Coupling of pitch, roll, yaw
+- [ ] Weight shifting
+- [ ] Shape and internal pressure
+- [ ] Aspect ratio
