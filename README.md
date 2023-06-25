@@ -45,4 +45,4 @@ Collecting notes for teaching material.
 - [x] Roll/pitch/yaw stability
 - [ ] Weight shifting
 - [ ] Shape and internal pressure
-- [ ] Aspect ratio
+- [x] Aspect ratio

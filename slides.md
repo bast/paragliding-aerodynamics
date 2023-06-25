@@ -233,3 +233,38 @@ Text: CC-BY 4.0
 - roll/pitch/yaw movements are typically coupled (it is however possible to do them
   separately: dolphining, spiral/looping, heli)
 ]
+
+---
+
+## Aspect ratio
+
+.left-column50[
+<img src="img/low-aspect.jpg"
+     alt="Low aspect ratio beginner wing"
+     style="width: 250px;" />
+
+.cite[(c) [2018 JackieLou DL](https://pixabay.com/no/photos/paragliding-paraglider-gr%C3%B8nt-seil-3448982/)]
+
+<img src="img/high-aspect.jpg"
+     alt="High aspect ratio competition wing"
+     style="width: 250px;" />
+
+.cite[(c) 2020 Sebastian Schmied, CC-BY-SA-4.0]
+]
+
+.right-column50[
+- aspect ratio = span*span / area
+- you will never have to compute it, you can look it up for any wing
+  ([example 1](https://flyozone.com/paragliders/products/gliders/buzz-z7/),
+   [example 2](https://www.advance.swiss/en/products/paragliders/epsilon-dls))
+- some example values for orientation:
+  - school wings: 4.5 - 5
+  - beginner: 5 - 5.5
+  - intermediate: 5.5 - 6
+  - advanced/sport: 6.5
+  - competition: 7.5
+- lower aspect: **rounder**, less performance, easier to fly thanks to more stability/rigidity
+- higher aspect: **thinner**, less induced drag, more performance (speed,
+  better glide, better climb); less stability: more piloting needed to
+  prevent deflations and cravats, and to keep wingtips apart
+]
