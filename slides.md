@@ -164,52 +164,77 @@ Text: CC-BY 4.0
 
 ## Flying against headwind
 
+.left-column60[
 <img src="plots/polar-headwind.svg"
      alt="Polar curve moved by headwind"
      style="width: 400px;" />
+]
 
+.right-column40[
+- polar moves to the left
 - push speed bar for best glide
+]
 
 ---
 
 ## Flying with tailwind
 
+.left-column60[
 <img src="plots/polar-tailwind.svg"
      alt="Polar curve moved by tailwind"
      style="width: 400px;" />
+]
 
+.right-column40[
+- polar moves to the right
 - hands up for best glide
+]
 
 ---
 
 ## Flying in lifting air
 
+.left-column60[
 <img src="plots/polar-lift.svg"
      alt="Polar curve moved by lifting air"
      style="width: 400px;" />
+]
 
+.right-column40[
+- polar moves up
 - hands up for best glide
+]
 
 ---
 
 ## Flying in sinking air
 
+.left-column60[
 <img src="plots/polar-sink.svg"
      alt="Polar curve moved by sinking air"
      style="width: 400px;" />
+]
 
+.right-column40[
+- polar moves down
 - push speed bar for best glide
+]
 
 ---
 
 ## Effect of adding weight
 
+.left-column60[
 <img src="plots/polar-adding-weight.svg"
      alt="Polar curve moved by adding weight"
      style="width: 400px;" />
+]
 
-- glide is unchanged but speeds goes up (also the stall speed)
+.right-column40[
+- polar moves tangentially along the best glide
+- glide is unchanged but speeds goes up (**also the stall speed**)
 - adding a lot of weight might change shape which would change glide
+]
 
 ---
 
