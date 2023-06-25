@@ -266,5 +266,5 @@ Text: CC-BY 4.0
 - lower aspect: **rounder**, less performance, easier to fly thanks to more stability/rigidity
 - higher aspect: **thinner**, less induced drag, more performance (speed,
   better glide, better climb); less stability: more piloting needed to
-  prevent deflations and cravats, and to keep wingtips apart
+  prevent deflations and cravats; more dynamic deflations
 ]
