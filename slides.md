@@ -136,7 +136,7 @@ Text: CC-BY 4.0
      alt="Glide polar curve and important points along the curve"
      style="width: 400px;" />
 
-- slower than min speed: stall!
+- slower than min speed: stall
 - reducing A lines beyond max speed: frontal collapse
 - trim speed is close to best glide ("hands up")
 - beginners on modern gliders: do not try to optimize sink with brake application
