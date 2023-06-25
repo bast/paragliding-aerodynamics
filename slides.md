@@ -233,7 +233,8 @@ Text: CC-BY 4.0
 .right-column40[
 - polar moves tangentially along the best glide
 - glide is unchanged but speeds goes up (**also the stall speed**)
-- adding a lot of weight might change shape which would change glide
+- adding a lot of weight might change shape which would change glide and flight
+  characteristics
 ]
 
 ---
