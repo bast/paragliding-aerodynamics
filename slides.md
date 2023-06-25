@@ -155,7 +155,7 @@ Text: CC-BY 4.0
 
 .cite[inspired by the article "Staying in touch" by Bastienne Wentzel in the Cross Country Magazine (October 2022, p. 34)]
 
-- pushing speed bar increases speed (increases lit) but also reduces AOA (reduces lift)
+- pushing speed bar increases speed (increases lift) but also reduces AOA (reduces lift)
 - modern gliders and higher performance gliders compensate the two better
 - high performance gliders are faster and less sinky at higher speed
 - there has been a lot of progress in the last 10 years
