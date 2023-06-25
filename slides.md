@@ -153,7 +153,7 @@ Text: CC-BY 4.0
      alt="Polar curves on different gliders"
      style="width: 600px;" />
 
-.cite[inspired by the article "Staying in touch" by Bastienne Wentzel in the Cross Country Magazine (October 2022)]
+.cite[inspired by the article "Staying in touch" by Bastienne Wentzel in the Cross Country Magazine (October 2022, p. 34)]
 
 - pushing speed bar increases speed (increases lit) but also reduces AOA (reduces lift)
 - modern gliders and higher performance gliders compensate the two better
@@ -210,3 +210,26 @@ Text: CC-BY 4.0
 
 - glide is unchanged but speeds goes up (also the stall speed)
 - adding a lot of weight might change shape which would change glide
+
+---
+
+## Roll/pitch/yaw stability
+
+.left-column50[
+<img src="img/axes.jpg"
+     alt="Three axes: roll, pitch, and yaw"
+     style="width: 300px;" />
+
+.cite[From "Nailing the basics of active flying" by Greg Hamerton in the Cross Country Magazine (February/March 2023, p. 36)]
+]
+
+.right-column50[
+- if wing is pitched/rolled/yawed away from equilibrium, it has the
+  **tendency to return to equilibrium** (above your head)
+- pilot is the weight on a long pendulum -> tendency to restore
+- wing design supports stability (especially beginner wings)
+- you will notice reduced stability if you reduce wing span (e.g. during "big
+  ears" or "big big ears" maneuver)
+- roll/pitch/yaw movements are typically coupled (it is however possible to do them
+  separately: dolphining, spiral/looping, heli)
+]

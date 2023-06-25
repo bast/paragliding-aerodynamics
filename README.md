@@ -42,10 +42,7 @@ Collecting notes for teaching material.
 - [ ] What modifies wing loading
 - [ ] Turn and sink rate
 - [ ] Spiral
-- [ ] Pitch stability
-- [ ] Roll stability
-- [ ] Yaw stability
-- [ ] Coupling of pitch, roll, yaw
+- [x] Roll/pitch/yaw stability
 - [ ] Weight shifting
 - [ ] Shape and internal pressure
 - [ ] Aspect ratio
