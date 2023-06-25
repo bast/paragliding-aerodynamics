@@ -56,7 +56,7 @@ Text: CC-BY 4.0
 - wing is open in front: cell intakes
 - there is pressure inside the wing and it varies
 - we can change the size of wing during the flight (voluntarily or involuntarily)
-- "fuselage" is 8 m below the wing: human is the pendulum
+- "fuselage" is 8 m below the wing: human is the pendulum weight
 - reducing wing loading can make wing collapse
 - connection between human and wing is not fixed (slack/tension): inverted flight not possible, nose-dive requires spiraling
 - thrust comes from gravity
@@ -64,7 +64,7 @@ Text: CC-BY 4.0
 - airflow typically comes from below, not from front
 - dome/arc/camber
 - stability design
-- different mechanism to change angle of attack
+- different mechanisms to change angle of attack
 - steering
 
 ---
