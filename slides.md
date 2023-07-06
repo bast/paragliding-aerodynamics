@@ -172,7 +172,12 @@ Text: CC-BY 4.0
 
 .right-column40[
 - polar moves to the left
+
 - push speed bar for best glide
+
+- we like a little bit of head wind to start
+
+- shows why we don't want to fly in 10 m/s wind
 ]
 
 ---
@@ -187,7 +192,10 @@ Text: CC-BY 4.0
 
 .right-column40[
 - polar moves to the right
+
 - hands up for best glide
+
+- shows why we don't want to land in tailwind
 ]
 
 ---
@@ -202,6 +210,7 @@ Text: CC-BY 4.0
 
 .right-column40[
 - polar moves up
+
 - hands up for best glide
 ]
 
@@ -217,6 +226,7 @@ Text: CC-BY 4.0
 
 .right-column40[
 - polar moves down
+
 - push speed bar for best glide
 ]
 
@@ -232,7 +242,9 @@ Text: CC-BY 4.0
 
 .right-column40[
 - polar moves tangentially along the best glide
+
 - glide is unchanged but speeds goes up (**also the stall speed**)
+
 - adding a lot of weight might change shape which would change glide and flight
   characteristics
 ]
