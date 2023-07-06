@@ -252,6 +252,20 @@ Text: CC-BY 4.0
 
 ---
 
+## Quiz: what happens when you add 10 kg weight?
+
+- .quote[[ ] Your fly slower]
+
+- .quote[[ ] Your fly faster]
+
+- .quote[[ ] Glide becomes shorter (you land too short)]
+
+- .quote[[ ] Stall speed goes up]
+
+- .quote[[ ] In weak lift you climb less well]
+
+---
+
 ## Roll/pitch/yaw stability
 
 .left-column50[
