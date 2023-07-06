@@ -65,6 +65,7 @@ Text: CC-BY 4.0
 - dome/arc/camber
 - stability design
 - different mechanisms to change angle of attack
+- no rudder
 - steering
 
 ---
