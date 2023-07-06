@@ -328,6 +328,8 @@ Text: CC-BY 4.0
 
 ## Weight range
 
+Weight range refers to **"all up" weight** (take-off weight)
+
 .left-column60[
 <img src="img/weight-range.jpg"
      alt="Example paraglider data sheet with focus on weight range"
@@ -339,8 +341,6 @@ Text: CC-BY 4.0
      alt="How to measure take-off weight"
      style="height: 300px;" />
 ]
-
-Weight range refers to **"all up" weight** (take-off weight)
 
 Homework for everybody:
 - Figure out the weight range of your glider
