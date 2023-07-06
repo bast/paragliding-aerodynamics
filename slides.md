@@ -323,3 +323,67 @@ Text: CC-BY 4.0
   better glide, better climb); less stability: more piloting needed to
   prevent deflations and cravats; more dynamic deflations
 ]
+
+---
+
+## Weight range
+
+.left-column60[
+<img src="img/weight-range.jpg"
+     alt="Example paraglider data sheet with focus on weight range"
+     style="height: 300px;" />
+]
+
+.right-column40[
+<img src="img/scale.jpg"
+     alt="How to measure take-off weight"
+     style="height: 300px;" />
+]
+
+Weight range refers to **"all up" weight** (take-off weight)
+
+Homework for everybody:
+- Figure out the weight range of your glider
+- Measure your "all up" weight (you and all the gear and clothes and
+  everything)
+
+---
+
+## Weight range
+
+.left-column50[
+### Being "light" on the glider
+
+- Slower
+
+- Easier to climb in weak lift
+
+- Less wing loading
+
+- Deflations more likely
+
+- Deflations less dynamic
+]
+
+
+.right-column50[
+### Being "heavy" on the glider
+
+- Faster
+
+- Worse climb in weak lift
+
+- Higher wing loading and tension
+
+- Deflations less likely
+
+- Deflations more dynamic
+]
+
+---
+
+## Flying outside the weight range?
+
+- You might be outside of certification
+
+- Glider has been test flown on the lower and higher end of the weight range
