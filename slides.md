@@ -264,6 +264,8 @@ Text: CC-BY 4.0
 
 - .quote[[ ] In weak lift you climb less well]
 
+- .quote[[ ] The certification of your glider is still the same]
+
 ---
 
 ## Roll/pitch/yaw stability
