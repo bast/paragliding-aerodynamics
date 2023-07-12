@@ -18,16 +18,16 @@ Collecting notes for teaching material.
 
 ## Outline (2 hours course)
 
-- [ ] Why does it fly?
+- [x] Why does it fly?
 - [x] Similarities and differences with airplanes
 - [ ] What affects lift: speed, angle of attack, area, shape, aspect
 - [ ] Forces
 - [ ] Drag
    - [ ] Contributions to drag
    - [ ] How speed affects drag
-- [ ] Angle of attack
-- [ ] What changes angle of attack
-- [ ] Speed bar
+- [x] Angle of attack
+- [x] What changes angle of attack
+- [x] Speed bar
 - [ ] Application of brake/ steering lines
    - [ ] They change the camber
 - [x] Glide ratio

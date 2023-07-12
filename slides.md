@@ -1,10 +1,63 @@
 class: center, middle, gray-background
 
-# Title
+# Paragliding aerodynamics
 
-## Autor
+## Radovan Bast
 
 Text: CC-BY 4.0
+
+---
+
+## Goals
+
+- Get a good .emph[practical overview]
+
+- Not focus too much on why it flies but rather .emph[how we can change flying characteristics]
+
+- This is important for safety
+
+
+### Not a goal
+
+- Technical and academic detail
+- Recovery techniques in incidents (SIV courses)
+
+
+### About me
+
+- Flying since 2017
+- PP4 (300 flights, 80 hours) at the time of writing this
+- There are most probably mistakes - please point them out to me
+
+---
+
+class: center, middle, inverse
+
+# Why and how does it fly?
+
+---
+
+.left-column50[
+<img src="img/see-how-it-flies/pressure-near-wing.png"
+     alt="Airflow and Pressure Near Wings"
+     style="width: 300px;" />
+
+.cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
+]
+
+.right-column50[
+### Airflow and pressure
+
+- wing changes speed of air above and below wing
+- velocity and pressure distribution depends on angle of attack
+- downward momentum in air column behind the wing -> upward momentum on the wing
+- Bernoulli's principle
+  - higher pressure <-> lower airspeed
+  - lower pressure <-> higher airspeed
+- **pressure difference**: above and below
+- airfoil does not have to be curved on top and flat on the bottom
+- air passing above and below does not do so in equal time
+]
 
 ---
 
@@ -30,43 +83,72 @@ Text: CC-BY 4.0
 
 ---
 
-.left-column50[
-<img src="img/see-how-it-flies/pressure-near-wing.png"
-     alt="Airflow and Pressure Near Wings"
-     style="width: 300px;" />
+## Streamlines around a paraglider airfoil (simulated)
 
-.cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
-]
+<img src="img/streamlines-airfoil.jpg"
+     alt="Streamlines around a paraglider airfoil"
+     style="width: 600px;" />
 
-.right-column50[
-### Airflow and pressure
-
-(write me ...)
-]
+.cite[Becker, Sarah & Bruce, Paul. (2017). Experimental Study of Paraglider Aerodynamics. https://doi.org/10.13140/RG.2.2.33674.16321]
 
 ---
 
-(streamlines in a ram air airfoil)
+## Differences with airplanes (1/2)
 
----
+### Wing design
 
-## Differences with airplanes
-
-- wing is flexible/collapsible
 - wing is open in front: cell intakes
-- there is pressure inside the wing and it varies
-- we can change the size of wing during the flight (voluntarily or involuntarily)
-- "fuselage" is 8 m below the wing: human is the pendulum weight
-- reducing wing loading can make wing collapse
-- connection between human and wing is not fixed (slack/tension): inverted flight not possible, nose-dive requires spiraling
-- thrust comes from gravity
-- altitude is the fuel
-- airflow typically comes from below, not from front
 - dome/arc/camber
 - stability design
+- wing is flexible/collapsible
+- there is pressure inside the wing and it varies
+- we can change the size of wing during the flight (voluntarily or involuntarily)
+
+
+### Controls
+
 - different mechanisms to change angle of attack
 - no rudder
 - steering
+
+---
+
+## Differences with airplanes (2/2)
+
+### "Fuselage"
+
+- "fuselage" is 8 m below the wing: human is the pendulum
+- connection between human and wing is not fixed (slack/tension): inverted flight not possible, nose-dive requires spiraling
+- reducing wing loading can make wing collapse
+
+
+### "Propulsion"
+
+- thrust comes from gravity
+- altitude is the fuel
+- airflow typically comes from below, not from front
+
+---
+
+<img src="img/chord.png"
+     alt="Angle between chord line and horizon"
+     style="width: 600px;" />
+
+- Chord line: imaginary line through the front of leading adge and the trailing edge
+
+--
+
+- On a paraglider, angle between chord line and horizon is generally **not the angle of attack**
+
+---
+
+## Angle of attack (AOA)
+
+<img src="img/aoa-trim.png"
+     alt="Angle of attack at trim speed"
+     style="width: 800px;" />
+
+- Angle between **air flow** and chord line
 
 ---
 
@@ -76,11 +158,70 @@ Text: CC-BY 4.0
 
 .cite[[Pilot’s Handbook of Aeronautical Knowledge, Chapter 5, Aerodynamics of Flight, FAA-H-8083-25B](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/07_phak_ch5.pdf)]
 
-- Data is for a specific airfoil
+- Data is for a specific airfoil (not a paraglider but it is still relevant)
 - Increasing angle of attack (AOA) -> increasing drag and increasing lift
 - There is an AOA with optimal glide (optimal L/D ratio)
 - A paraglider is typically trimmed to fly close to optimal glide when hands-up
 - At a certain AOA, this airfoil stalls
+
+---
+
+## How can we change the AOA on a paraglider?
+
+- speed bar
+
+- brakes
+
+- rear-riser control
+
+- collapsing wing (voluntarily or involuntarily)
+
+- turbulence
+
+- aging of lines (A and B lines often lengthen with time, C and brake lines
+  often shorten with time)
+
+---
+
+## Speed bar application pulls A and B lines down
+
+<img src="img/speed-0.png"
+     alt="Speed bar not pushed"
+     style="height: 200px;" />
+<img src="img/speed-50.png"
+     alt="Speed bar pushed 50%"
+     style="height: 200px;" />
+<img src="img/speed-100.png"
+     alt="Speed bar pushed 100%"
+     style="height: 200px;" />
+
+.cite[Images from <https://www.korteldesign.com/en/reflexion-sur-laccelerateur/>]
+
+- left: trim speed
+- center: 50% speed bar (first step, legs extended)
+- right: 100% speed bar (second step, legs extended, pullies almost touch)
+
+---
+
+<img src="img/aoa.png"
+     alt="Angle of attack when slowed down or accelerated"
+     style="width: 600px;" />
+
+---
+
+.left-column60[
+<img src="img/aoa.png"
+     alt="Angle of attack when slowed down or accelerated"
+     style="width: 450px;" />
+]
+
+.right-column40[
+- brake application is technically not the opposite of pushing the speed bar
+
+- too high AOA: wing stalls
+
+- too low AOA: wing deflates ("full frontal")
+]
 
 ---
 
