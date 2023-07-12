@@ -38,30 +38,6 @@ class: center, middle, inverse
 ---
 
 .left-column50[
-<img src="img/see-how-it-flies/pressure-near-wing.png"
-     alt="Airflow and Pressure Near Wings"
-     style="width: 300px;" />
-
-.cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
-]
-
-.right-column50[
-### Airflow and pressure
-
-- wing changes speed of air above and below wing
-- velocity and pressure distribution depends on angle of attack
-- downward momentum in air column behind the wing -> upward momentum on the wing
-- Bernoulli's principle
-  - higher pressure <-> lower airspeed
-  - lower pressure <-> higher airspeed
-- **pressure difference**: above and below
-- airfoil does not have to be curved on top and flat on the bottom
-- air passing above and below does not do so in equal time
-]
-
----
-
-.left-column50[
 ### Streamlines and velocity field
 
 <img src="img/see-how-it-flies/velocity-field.png"
@@ -69,6 +45,10 @@ class: center, middle, inverse
      style="width: 300px;" />
 
 .cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
+
+- wing changes speed of air above and below wing
+
+- velocity and pressure distribution depends on angle of attack
 ]
 
 .right-column50[
@@ -79,6 +59,29 @@ class: center, middle, inverse
      style="width: 300px;" />
 
 .cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
+
+- downward momentum in air column behind the wing -> upward momentum on the wing
+]
+
+---
+
+.left-column50[
+<img src="img/see-how-it-flies/pressure-near-wing.png"
+     alt="Airflow and Pressure Near Wings"
+     style="width: 300px;" />
+
+.cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
+]
+
+.right-column50[
+### Airflow and pressure
+
+- Bernoulli's principle
+  - higher pressure <-> lower airspeed
+  - lower pressure <-> higher airspeed
+- **pressure difference**: above and below
+- airfoil does not have to be curved on top and flat on the bottom
+- air passing above and below does not do so in equal time
 ]
 
 ---
