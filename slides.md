@@ -68,7 +68,7 @@ class: center, middle, inverse
 .left-column50[
 <img src="img/see-how-it-flies/pressure-near-wing.png"
      alt="Airflow and Pressure Near Wings"
-     style="width: 300px;" />
+     style="width: 350px;" />
 
 .cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
 ]
@@ -79,8 +79,11 @@ class: center, middle, inverse
 - Bernoulli's principle
   - higher pressure <-> lower airspeed
   - lower pressure <-> higher airspeed
+
 - **pressure difference**: above and below
+
 - airfoil does not have to be curved on top and flat on the bottom
+
 - air passing above and below does not do so in equal time
 ]
 
