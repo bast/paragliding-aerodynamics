@@ -492,7 +492,11 @@ class: center, middle, inverse
 
 ## Stall
 
-(add images)
+<img src="img/stall.jpg"
+     alt="Air flow streamlines in a stalling wing"
+     style="width: 200px;" />
+
+.cite[[Association of Paragliding Pilots and Instructors (APPI) Pilot Manual, Version 1.2](https://drive.google.com/file/d/1QmOzOG6EOmTa6XB0HruR98iBMa3GjzuX/view)]
 
 - Airflow does not follow wing anymore
 - Wing stops producing lift
@@ -506,8 +510,15 @@ class: center, middle, inverse
 
 ## Deep stall
 
-(add images)
+.left-column50[
+<img src="img/deep-stall.jpg"
+     alt="Photo of a deep stall"
+     style="width: 300px;" />
 
+.cite[From [Paraglider Control: Stall, Spin, Collapse!](https://flybubble.com/blog/paraglider-control-stall-spin-collapse)]
+]
+
+.right-column50[
 - Wing looks open but you experience huge sink (7 m/s)
 - Very yaw-unstable
 - No pendulum movements
@@ -515,13 +526,13 @@ class: center, middle, inverse
 - Line attachments look like being pulled out
 - Wing becomes parachute
 - Air flows from below
+]
 
 ---
 
 ## Full stall
 
-(add images)
-
+- Video: [J. Sanderson, "Stalls: SIV Paragliding Safety Training"](https://www.youtube.com/watch?v=2WxyEas7Jyk)
 - Wing rocks back
 - Brakes become soft
 - Peels back from wingtips
@@ -532,8 +543,7 @@ class: center, middle, inverse
 
 ## Spin
 
-(add images)
-
+- Video: [J. Sanderson, "Spins: Paragliding Safety"](https://www.youtube.com/watch?v=wfgpuj9uwmk)
 - One brake becomes soft
 - One side of the wing stalls
 - Half wing flies forward, half wing backward
