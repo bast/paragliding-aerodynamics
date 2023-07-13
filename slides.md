@@ -46,6 +46,7 @@ class: center, middle, inverse
 
 .cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
 
+- **laminar flow**: smooth, even, unhindered, non-mixing flow
 - wing changes speed of air above and below wing
 - velocity and pressure distribution depends on angle of attack
 ]
@@ -340,6 +341,9 @@ class: center, middle, inverse
      style="width: 600px;" />
 
 .cite[[Association of Paragliding Pilots and Instructors (APPI) Pilot Manual, Version 1.2](https://drive.google.com/file/d/1QmOzOG6EOmTa6XB0HruR98iBMa3GjzuX/view)]
+
+- Wing-tip vortices (induced drag): they are a side effect of lift and produced
+  by pressure difference (below and above the wing)
 
 ---
 
