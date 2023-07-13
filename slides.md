@@ -508,6 +508,27 @@ class: center, middle, inverse
 
 ---
 
+## Full stall
+
+- Video: [J. Sanderson, "Stalls: SIV Paragliding Safety Training"](https://www.youtube.com/watch?v=2WxyEas7Jyk)
+- Wing rocks back
+- Brakes become soft
+- Peels back from wingtips
+- Highly pitch-unstable
+- Risks: twist, spiral, canopy contact
+
+
+## Spin
+
+- Video: [J. Sanderson, "Spins: Paragliding Safety"](https://www.youtube.com/watch?v=wfgpuj9uwmk)
+- One brake becomes soft
+- One side of the wing stalls
+- Half wing flies forward, half wing backward
+- Can be accidentally induced by very heavy brake with no or wrong weight shift
+- Risks: twist, spiral
+
+---
+
 ## Deep stall
 
 .left-column50[
@@ -527,28 +548,6 @@ class: center, middle, inverse
 - Wing becomes parachute
 - Air flows from below
 ]
-
----
-
-## Full stall
-
-- Video: [J. Sanderson, "Stalls: SIV Paragliding Safety Training"](https://www.youtube.com/watch?v=2WxyEas7Jyk)
-- Wing rocks back
-- Brakes become soft
-- Peels back from wingtips
-- Highly pitch-unstable
-- Risks: twist, spiral, canopy contact
-
----
-
-## Spin
-
-- Video: [J. Sanderson, "Spins: Paragliding Safety"](https://www.youtube.com/watch?v=wfgpuj9uwmk)
-- One brake becomes soft
-- One side of the wing stalls
-- Half wing flies forward, half wing backward
-- Can be accidentally induced by very heavy brake with no or wrong weight shift
-- Risks: twist, spiral
 
 ---
 
