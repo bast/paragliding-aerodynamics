@@ -298,15 +298,15 @@ class: center, middle, inverse
 
 ## Forces on a paraglider
 
-(here image with lift, gravity, drag, thrust)
+<img src="img/forces.png"
+     alt="Forces acting on a paraglider"
+     style="width: 450px;" />
 
 - Upward forces balance downward forces
 
 ---
 
 ## Forces in a turn
-
-(add image)
 
 - Vertical component of lift is smaller
 - Higher sink rate
@@ -348,8 +348,6 @@ class: center, middle, inverse
 ---
 
 ## Glide ratio
-
-(add image)
 
 - glide ratio = distance / altitude loss
 - typically ~ 10
@@ -493,12 +491,12 @@ class: center, middle, inverse
 ## Stall
 
 <img src="img/stall.jpg"
-     alt="Air flow streamlines in a stalling wing"
-     style="width: 200px;" />
+     alt="Photograph of a airfoil in a wind tunnel, showing separated flow over the top surface."
+     style="width: 350px;" />
 
-.cite[[Association of Paragliding Pilots and Instructors (APPI) Pilot Manual, Version 1.2](https://drive.google.com/file/d/1QmOzOG6EOmTa6XB0HruR98iBMa3GjzuX/view)]
+.cite[DLR, CC-BY 3.0]
 
-- Airflow does not follow wing anymore
+- Airflow does not follow upper side of wing anymore
 - Wing stops producing lift
 - **Always at same AOA**
 - Not always at the same speed: it is possible to stall a wing at any speed

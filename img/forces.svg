@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="forces.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6390761"
+     inkscape:cx="389.85378"
+     inkscape:cy="385.58308"
+     inkscape:window-width="1885"
+     inkscape:window-height="1417"
+     inkscape:window-x="671"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker14554"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path14552"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:3.78278px;line-height:1.25;font-family:sans-serif;fill:#008080;stroke-width:0.202649"
+       x="160.27171"
+       y="88.824722"
+       id="text29520"><tspan
+         sodipodi:role="line"
+         id="tspan29518"
+         style="font-size:3.78278px;fill:#008080;stroke-width:0.202649"
+         x="160.27171"
+         y="88.824722">drag</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.306367;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 67.854002,101.29909 c -13.590323,-14.514485 39.567328,-6.51939 105.262708,8.22377 -50.3974,1.64241 -73.148004,-0.84099 -90.483935,-2.73032"
+       id="path113"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.78278px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.202649"
+       x="110.40061"
+       y="54.585091"
+       id="text16258"><tspan
+         sodipodi:role="line"
+         id="tspan16256"
+         style="font-size:3.78278px;fill:#0000ff;stroke-width:0.202649"
+         x="110.40061"
+         y="54.585091">vertical component of lift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.78278px;line-height:1.25;font-family:sans-serif;fill:#800000;stroke-width:0.202649"
+       x="98.113113"
+       y="155.85098"
+       id="text16262"><tspan
+         sodipodi:role="line"
+         id="tspan16260"
+         style="font-size:3.78278px;fill:#800000;stroke-width:0.202649"
+         x="98.113113"
+         y="155.85098">weight</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.78278px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke:none;stroke-width:0.202649"
+       x="38.725315"
+       y="117.16859"
+       id="text17024"><tspan
+         sodipodi:role="line"
+         id="tspan17022"
+         style="font-size:3.78278px;fill:#ff0000;stroke:none;stroke-width:0.202649"
+         x="38.725315"
+         y="117.16859">thrust</tspan></text>
+    <path
+       style="fill:#800000;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14554)"
+       d="m 105.05564,100.99186 v 48.67666"
+       id="path13535" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 105.03911,101.20361 52.526876,114.21598"
+       id="path18550"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 105.05521,101.19644 157.56745,88.184072"
+       id="path381"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14554)"
+       d="M 105.0575,100.98314 V 52.306477"
+       id="path953" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 104.85715,100.94098 93.337881,54.454242"
+       id="path955"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.765917;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.765917, 0.765917;stroke-opacity:1;stroke-dashoffset:0"
+       d="M 121.24317,46.971637 68.730938,59.984007"
+       id="path957"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.78278px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.202649"
+       x="89.321518"
+       y="51.287735"
+       id="text965"><tspan
+         sodipodi:role="line"
+         id="tspan963"
+         style="font-size:3.78278px;fill:#0000ff;stroke-width:0.202649"
+         x="89.321518"
+         y="51.287735">lift</tspan></text>
+  </g>
+</svg>
