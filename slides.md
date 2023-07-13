@@ -311,7 +311,7 @@ class: center, middle, inverse
 - Higher sink rate
 - More Gs (you feel heavier)
 - More wing loading
-- The pendulum weight (pilot) speeds up
+- The pendulum weight (pilot) swings faster around the turn
 
 
 ### What this means in practice
@@ -617,6 +617,26 @@ class: center, middle, inverse
 
 ---
 
+## Shape and internal pressure
+
+### Shape maintained by ...
+
+- Internal pressure
+- Line attachments
+- Line tension
+- Positive AOA
+
+
+### Internal pressure
+
+- Wing has cell openings
+- Pressure decreases progressively from front to back and from center to
+  wingtips
+- Brake input can briefly increase/restore internal pressure (like squeezing
+  the end of toothpaste tube)
+
+---
+
 ## Aspect ratio
 
 .left-column40[
@@ -651,6 +671,24 @@ class: center, middle, inverse
   better glide, better climb); less stability: more piloting needed to
   prevent deflations and cravats; more dynamic deflations
 ]
+
+---
+
+## Certification: A -> B -> C -> D -> CCC -> uncertified
+
+### From A to D ...
+
+- more speed
+- more performance
+- deflations more dynamic
+- less stability
+- more piloting needed in lively air and to fix problems
+
+
+### Homework
+
+- On <https://para-test.com/> find and read the test report for your glider and
+  find out why it was rated A or B or C or ...
 
 ---
 
