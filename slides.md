@@ -47,7 +47,6 @@ class: center, middle, inverse
 .cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
 
 - wing changes speed of air above and below wing
-
 - velocity and pressure distribution depends on angle of attack
 ]
 
@@ -77,8 +76,8 @@ class: center, middle, inverse
 ### Airflow and pressure
 
 - Bernoulli's principle
-  - higher pressure <-> lower airspeed
-  - lower pressure <-> higher airspeed
+  - higher airspeed <-> lower pressure (suction; s)
+  - lower airspeed <-> higher pressure (p)
 
 - **pressure difference**: above and below
 
@@ -99,12 +98,18 @@ class: center, middle, inverse
 
 ---
 
+class: center, middle, inverse
+
+# What differences between airplanes and paragliders can you come up with?
+
+---
+
 ## Differences with airplanes (1/2)
 
 ### Wing design
 
 - wing is open in front: cell intakes
-- dome/arc/camber
+- arc
 - stability design
 - wing is flexible/collapsible
 - there is pressure inside the wing and it varies
@@ -114,6 +119,7 @@ class: center, middle, inverse
 ### Controls
 
 - different mechanisms to change angle of attack
+- tail-less
 - no rudder
 - steering
 
@@ -132,7 +138,34 @@ class: center, middle, inverse
 
 - thrust comes from gravity
 - altitude is the fuel
-- airflow typically comes from below, not from front
+- airflow typically comes at an angle, not from front
+
+---
+
+class: center, middle, inverse
+
+# Which controls do we have on a paraglider?
+
+---
+
+## Which controls do we have on a paraglider?
+
+.left-column50[
+<img src="img/axes.jpg"
+     alt="Three axes: roll, pitch, and yaw"
+     style="width: 300px;" />
+
+.cite[From "Nailing the basics of active flying" by Greg Hamerton in the Cross Country Magazine (February/March 2023, p. 36)]
+]
+
+.right-column50[
+- **Brakes** (left, right, or both): induce drag -> yaw or pitch
+- **Speed bar**: changes angle of attack
+- **Weight shift**: loads one side of the wing more and displaces center of lift
+  from center of mass and creates a roll (which restores center of lift above center of mass)
+- **Back risers**
+- We can **pull at some lines** and deform the wing (example: "big ears")
+]
 
 ---
 
@@ -160,15 +193,36 @@ class: center, middle, inverse
 
 <img src="img/lift-drag-coefficients.png"
      alt="Lift and drag coefficients"
-     style="width: 600px;" />
+     style="width: 550px;" />
 
 .cite[[Pilot’s Handbook of Aeronautical Knowledge, Chapter 5, Aerodynamics of Flight, FAA-H-8083-25B](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/07_phak_ch5.pdf)]
 
 - Data is for a specific airfoil (not a paraglider but it is still relevant)
 - Increasing angle of attack (AOA) -> increasing drag and increasing lift
+- At a certain AOA, this airfoil stalls
 - There is an AOA with optimal glide (optimal L/D ratio)
 - A paraglider is typically trimmed to fly close to optimal glide when hands-up
-- At a certain AOA, this airfoil stalls
+- On a paraglider we also want to avoid a too low AOA (more about it later)
+
+---
+
+## What affects lift?
+
+- Speed: lift increases quadratically with speed
+
+- AOA: lift increases linearly with AOA
+
+- Wing area: lift increases linearly with the area
+
+- Shape (airfoil)
+
+- Aspect (indirectly)
+
+---
+
+class: center, middle, inverse
+
+# How can we change the AOA on a paraglider?
 
 ---
 
@@ -231,6 +285,43 @@ class: center, middle, inverse
 
 ---
 
+## Brake application
+
+<img src="img/brake-deflection.png"
+     alt="Deflection when brake lines are pulled"
+     style="width: 600px;" />
+
+.cite[[R. Falquier, T. Lolies, U. Ringertz, Longitudinal Flight Mechanics of Paraglider Systems](https://www.diva-portal.org/smash/get/diva2:1359785/FULLTEXT01.pdf)]
+
+---
+
+## Forces on a paraglider
+
+(here image with lift, gravity, drag, thrust)
+
+- Upward forces balance downward forces
+
+---
+
+## Forces in a turn
+
+(add image)
+
+- Vertical component of lift is smaller
+- Higher sink rate
+- More Gs (you feel heavier)
+- More wing loading
+- The pendulum weight (pilot) speeds up
+
+
+### What this means in practice
+
+- Avoid steep turns close to ground
+- Avoid turns on final approach before landing (sometimes a tree landing is
+  better than a steep turn to force the glider onto the nice grass field)
+
+---
+
 <img src="img/drag-vs-speed.png"
      alt="Drag vs. speed"
      style="width: 600px;" />
@@ -242,17 +333,13 @@ class: center, middle, inverse
 
 ---
 
-(composition of drag: lines, harness, wing, ...)
+## Contributions to total drag
 
----
-
-## Brake application
-
-<img src="img/brake-deflection.png"
-     alt="Deflection when brake lines are pulled"
+<img src="img/drag.png"
+     alt="Contributions to total drag"
      style="width: 600px;" />
 
-.cite[[R. Falquier, T. Lolies, U. Ringertz, Longitudinal Flight Mechanics of Paraglider Systems](https://www.diva-portal.org/smash/get/diva2:1359785/FULLTEXT01.pdf)]
+.cite[[Association of Paragliding Pilots and Instructors (APPI) Pilot Manual, Version 1.2](https://drive.google.com/file/d/1QmOzOG6EOmTa6XB0HruR98iBMa3GjzuX/view)]
 
 ---
 
@@ -399,6 +486,78 @@ class: center, middle, inverse
 
 ---
 
+## Stall
+
+(add images)
+
+- Airflow does not follow wing anymore
+- Wing stops producing lift
+- **Always at same AOA**
+- Not always at the same speed: it is possible to stall a wing at any speed
+- Not always at the same hand position
+- On a paraglider a stall often deforms the wing
+- Often wing tips "peel" first
+
+---
+
+## Deep stall
+
+(add images)
+
+- Wing looks open but you experience huge sink (7 m/s)
+- Very yaw-unstable
+- No pendulum movements
+- Lower surface sucked up against upper surface
+- Line attachments look like being pulled out
+- Wing becomes parachute
+- Air flows from below
+
+---
+
+## Full stall
+
+(add images)
+
+- Wing rocks back
+- Brakes become soft
+- Peels back from wingtips
+- Highly pitch-unstable
+- Risks: twist, spiral, canopy contact
+
+---
+
+## Spin
+
+(add images)
+
+- One brake becomes soft
+- One side of the wing stalls
+- Half wing flies forward, half wing backward
+- Can be accidentally induced by very heavy brake with no or wrong weight shift
+- Risks: twist, spiral
+
+---
+
+## What does this mean for beginners?
+
+### **Beginners never** want stall/spin in flight
+
+### **Later** in your flying career
+
+- Stall/spin can be a useful tool to reset/ fix problems (learn during SIV)
+- Acro: stall/spin are basic elements
+
+### You can try to stall wing **on the ground** (ground handling or after landing)
+
+- On the ground look for the "stall point"
+- Observe how wing falls back
+- However, it is not the same point and not the same pressure/feeling as in
+  flight (on the ground the wing is not loaded)
+
+.quote[Quiz: what is the advantage of wing falling back after landing instead of falling forward?]
+
+---
+
 ## Quiz: what happens when you add 10 kg weight?
 
 - .quote[[ ] Your fly slower]
@@ -425,6 +584,8 @@ class: center, middle, inverse
 .cite[From "Nailing the basics of active flying" by Greg Hamerton in the Cross Country Magazine (February/March 2023, p. 36)]
 ]
 
+--
+
 .right-column50[
 - if wing is pitched/rolled/yawed away from equilibrium, it has the
   **tendency to return to equilibrium** (above your head)
@@ -438,9 +599,27 @@ class: center, middle, inverse
 
 ---
 
+## Wing design and stability
+
+- Sweep back: yaw stability
+
+- Center of drag is behind center of lift: yaw stability
+
+- Arc: stretches the front open
+
+- Aspect ratio
+
+- Line setup
+
+- Increased drag when pitching: pitch stability
+
+- Front collapse when over-pitching: avoid canopy contact
+
+---
+
 ## Aspect ratio
 
-.left-column50[
+.left-column40[
 <img src="img/low-aspect.jpg"
      alt="Low aspect ratio beginner wing"
      style="width: 250px;" />
@@ -454,7 +633,9 @@ class: center, middle, inverse
 .cite[(c) 2020 Sebastian Schmied, CC-BY-SA-4.0]
 ]
 
-.right-column50[
+--
+
+.right-column60[
 - aspect ratio = span*span / area
 - you will never have to compute it, you can look it up for any wing
   ([example 1](https://flyozone.com/paragliders/products/gliders/buzz-z7/),
@@ -534,3 +715,84 @@ Homework for everybody:
 - You might be outside of certification
 
 - Glider has been test flown on the lower and higher end of the weight range
+
+---
+
+## Wing loading
+
+- Defined as weight / wing area
+
+- Typically around 3.5 kg / m^2 (homework: figure out the wing loading for you on your wing)
+
+- Acro wings: high wing loading (6 kg / m^2, or even more)
+
+
+### More wing loading means ...
+
+- More tension
+- Higher speed
+- Higher stall speed
+- Same glide (unless wing distorts)
+- More dynamic in turns
+- More dynamic after deflations
+
+---
+
+## What modifies wing loading?
+
+.quote[More weight or less wing]
+
+- More weight (gear, body, different harness, extra ballast)
+
+- Smaller wing
+
+- Collapsed wing (can behave like a smaller wing)
+
+- Broken lines
+
+- More Gs during maneuvers (tight turn, spiral, acro maneuvers)
+
+---
+
+## Incidents and how they affect aerodynamics (1/2)
+
+.quote[This is about the aerodynamics, not about SIV or recovery techniques!]
+
+
+### Start and pre-flight checks
+
+- Broken line: less maneuvering possibilities, wing structure can change
+- Knot in lines: drag, wing turns towards the knot
+- Line-over: maneuvering very limited, might not even fly
+- Twisted start: less maneuvering possibilities, brakes are "opposite"
+- Twisted brake lines: less maneuvering possibilities
+
+---
+
+## Incidents and how they affect aerodynamics (2/2)
+
+### Lack of servicing
+
+- Aging lines: AOA changes, brake range changes, difficult to launch, closer to stall/spin
+- Too much porosity: bad glide, deep stall
+
+
+### During flight
+
+- Cravat (cloth caught in-between lines): huge drag, wing turns towards the cravat, rotation
+- Deflation (symmetric, asymmetric): depends but often leads to rotation towards the deflation
+
+---
+
+## Trim
+
+- Line attachments and line lengths determine the shape/camber/trim
+- Trim speed: speed when "hands up" (close to minimal drag)
+- When a wing is out of trim:
+  - "hands up" AOA changes
+  - A and B lines often lengthen, C and brake lines often shorten over time
+  - Wing can deform/stretch/shrink over time
+- To trim a wing: bringing it back to trim by adjusting lines (often done by expert)
+- Check your wing at least every 2 years
+- **Check the trim when buying a second hand wing**
+- It may not be enough to check line lengths alone (wing can deform/stretch/shrink)

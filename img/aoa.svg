@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="aoa.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.68136726"
-     inkscape:cx="364.70787"
-     inkscape:cy="337.55658"
-     inkscape:window-width="1896"
+     inkscape:zoom="1.7102527"
+     inkscape:cx="88.583399"
+     inkscape:cy="178.33622"
+     inkscape:window-width="1694"
      inkscape:window-height="1417"
-     inkscape:window-x="660"
+     inkscape:window-x="862"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -310,17 +310,17 @@
     <text
        xml:space="preserve"
        style="font-size:3.78278px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.202649"
-       x="11.78019"
-       y="51.95417"
+       x="26.255743"
+       y="51.933983"
        id="text42571"><tspan
          sodipodi:role="line"
          id="tspan42569"
          style="font-size:3.78278px;fill:#000000;stroke-width:0.202649"
-         x="11.78019"
-         y="51.95417">AOA</tspan></text>
+         x="26.255743"
+         y="51.933983">AOA</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.765917;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 26.34943,62.155916 C 21.158828,52.51958 21.085865,46.787174 22.723108,37.263946"
+       d="M 39.433294,57.920859 C 36.978654,54.169776 35.19666,50.582702 35.017623,44.855029"
        id="path42573"
        sodipodi:nodetypes="cc" />
   </g>
