@@ -340,9 +340,9 @@ class: center, middle, inverse
      alt="Glide polar curve and important points along the curve"
      style="width: 400px;" />
 
-- slower than min speed: stall
+- slower than min speed: **stall**
 - reducing A lines beyond max speed: frontal collapse
-- trim speed is close to best glide ("hands up")
+- **trim speed** ("hands up"): close to best glide, around 10 m/s (36 km/h)
 - beginners on modern gliders: do not try to optimize sink with brake application
 - min sink is not the same as optimal glide (max distance)
 - note how we can read off the glide ratio when looking at the -1.0 m/s vertical speed line
