@@ -521,12 +521,15 @@ class: center, middle, inverse
 
 ## Stall
 
-<img src="img/stall.jpg"
-     alt="Photograph of a airfoil in a wind tunnel, showing separated flow over the top surface."
-     style="width: 350px;" />
+.left-column40[
+  <img src="img/stall.jpg"
+       alt="Photograph of a airfoil in a wind tunnel, showing separated flow over the top surface."
+       style="width: 300px;" />
 
-.cite[DLR, CC-BY 3.0]
+  .cite[DLR, CC-BY 3.0]
+]
 
+.right-column60[
 - Airflow does not follow upper side of wing anymore
 - Wing stops producing lift
 - **Always at same AOA**
@@ -534,6 +537,9 @@ class: center, middle, inverse
 - Not always at the same hand position
 - On a paraglider a stall often deforms the wing
 - Often wing tips "peel" first
+- It can take surprisingly **much brake** to stall a wing from normal flight
+- It takes surprisingly **little brake** to (re-)stall a wing which is not in normal flight
+]
 
 ---
 
