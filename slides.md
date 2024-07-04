@@ -511,11 +511,26 @@ class: center, middle, inverse
 - The pendulum weight (pilot) swings faster around the turn
 
 
-### What this means in practice
+### What this means for landing
 
 - Avoid steep turns close to ground
 - Avoid turns on final approach before landing (sometimes a tree landing is
   better than a steep turn to force the glider onto the nice grass field)
+
+---
+
+## Flare authority
+
+- Less speed -> less lift -> less flare authority
+- More speed -> more lift -> more flare authority
+- Landing at sea level -> more air density -> more flare authority
+- Landing at high altitude -> less air density -> less flare authority
+
+
+### What this means for landing
+
+- You want speed on approach to have more control and possibly a softer landing
+- When landing at high altitude, you need to be very precise with your flare timing
 
 ---
 
