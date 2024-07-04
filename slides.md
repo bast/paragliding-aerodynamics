@@ -493,15 +493,6 @@ class: center, middle, inverse
 
 ---
 
-## Turning with brakes and/or weightshift
-
-(work in progress)
-
-- **Weight shift**: creates a roll but then also some pitch and yaw; loads one side of the wing more and displaces center of lift
-  from center of mass and creates a roll (which restores center of lift above center of mass)
-
----
-
 ## Forces in a turn
 
 - Vertical component of lift is smaller
@@ -616,6 +607,29 @@ class: center, middle, inverse
   flight (on the ground the wing is not loaded)
 
 .quote[Quiz: what is the advantage of wing falling back after landing instead of falling forward?]
+
+---
+
+## Brake application
+
+- pulling one brake: asymmetric drag -> yaw (but also roll)
+- pulling both brakes slowly: slows the glider down
+- pulling both brakes quickly (and then releasing): pitch back
+
+
+### Weight shift
+
+- it's not only about shifting weight but also about displacing the carabiners up and down
+- creates a roll but then also some pitch and yaw; loads one side of the wing more and displaces center of lift
+  from center of mass and creates a roll (which restores center of lift above center of mass)
+- roll -> AOA is not symmetric anymore on both sides -> yaw
+
+
+### How to carve a nice turn
+
+- look where you want to go, then weight shift, then squeeze the brake
+- safer (you look before turning), more efficient and
+  coordinated (weight shift first), safer (less risk to spin)
 
 ---
 
