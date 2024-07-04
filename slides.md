@@ -58,7 +58,7 @@ class: center, middle, inverse
 
 .cite[(c) John S. Denker, ["See How It Flies"](https://www.av8n.com/how/)]
 
-- downward momentum in air column behind the wing -> upward momentum on the wing
+- downward momentum in air column behind the wing -> **upward momentum** on the wing
 ]
 
 ---
@@ -174,23 +174,43 @@ class: center, middle, inverse
 
 ---
 
-<img src="img/chord.png"
-     alt="Angle between chord line and horizon"
-     style="width: 600px;" />
+## Brake application
 
-- Chord line: imaginary line through the front of leading adge and the trailing edge
+- pulling one brake: asymmetric drag -> yaw (but also roll)
+- pulling both brakes slowly: slows the glider down
+- pulling both brakes quickly (and then releasing): pitch back
 
-- On a paraglider, angle between chord line and horizon is generally **not the angle of attack**
+
+### Weight shift
+
+- it's not only about shifting weight but also about displacing the carabiners up and down
+- creates a roll but then also some pitch and yaw; loads one side of the wing more and displaces center of lift
+  from center of mass and creates a roll (which restores center of lift above center of mass)
+- roll -> AOA is not symmetric anymore on both sides -> yaw
+
+
+### How to carve a nice turn
+
+- look where you want to go, then weight shift, then squeeze the brake
+- safer (you look before turning), more efficient and
+  coordinated (weight shift first), safer (less risk to spin)
 
 ---
 
 ## Angle of attack (AOA)
 
+<img src="img/chord.png"
+     alt="Angle between chord line and horizon"
+     style="width: 600px;" />
+
+- Chord line: imaginary line connecting the front of leading edge and trailing edge
+- On a paraglider, angle between chord line and horizon is generally **not the angle of attack**
+
 <img src="img/aoa-trim.png"
      alt="Angle of attack at trim speed"
      style="width: 800px;" />
 
-- Angle between **air flow** and chord line
+- AOA: Angle between **air flow** and chord line
 
 ---
 
@@ -293,18 +313,7 @@ class: center, middle, inverse
      style="width: 600px;" />
 
 - too high AOA: wing stalls
-- too low AOA: wing deflates ("full frontal")
-
----
-
-<img src="img/drag-vs-speed.png"
-     alt="Drag vs. speed"
-     style="width: 600px;" />
-
-.cite[[Pilot’s Handbook of Aeronautical Knowledge, Chapter 5, Aerodynamics of Flight, FAA-H-8083-25B](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/07_phak_ch5.pdf)]
-
-- There is an airspeed with optimal glide (minimum drag)
-- A paraglider is typically trimmed to fly close to minimal drag when hands-up (and no speed bar applied)
+- too low AOA: wing deflates
 
 ---
 
@@ -318,6 +327,17 @@ class: center, middle, inverse
 
 - Wing-tip vortices (induced drag): they are a side effect of lift and produced
   by pressure difference (below and above the wing)
+
+---
+
+<img src="img/drag-vs-speed.png"
+     alt="Drag vs. speed"
+     style="width: 600px;" />
+
+.cite[[Pilot’s Handbook of Aeronautical Knowledge, Chapter 5, Aerodynamics of Flight, FAA-H-8083-25B](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/07_phak_ch5.pdf)]
+
+- There is an airspeed with optimal glide (minimum drag)
+- A paraglider is typically trimmed to fly close to minimal drag when hands-up (and no speed bar applied)
 
 ---
 
@@ -481,6 +501,8 @@ class: center, middle, inverse
 
 - .quote[[ ] The certification of your glider is still the same]
 
+.cite[Solution: 2, 4, 5]
+
 ---
 
 ## Forces on a paraglider
@@ -520,7 +542,7 @@ class: center, middle, inverse
 
 ### What this means for landing
 
-- You want speed on approach to have more control and possibly a softer landing
+- **You want speed on approach** to have more control and possibly a softer landing
 - When landing at high altitude, you need to be very precise with your flare timing
 
 ---
@@ -607,29 +629,6 @@ class: center, middle, inverse
   flight (on the ground the wing is not loaded)
 
 .quote[Quiz: what is the advantage of wing falling back after landing instead of falling forward?]
-
----
-
-## Brake application
-
-- pulling one brake: asymmetric drag -> yaw (but also roll)
-- pulling both brakes slowly: slows the glider down
-- pulling both brakes quickly (and then releasing): pitch back
-
-
-### Weight shift
-
-- it's not only about shifting weight but also about displacing the carabiners up and down
-- creates a roll but then also some pitch and yaw; loads one side of the wing more and displaces center of lift
-  from center of mass and creates a roll (which restores center of lift above center of mass)
-- roll -> AOA is not symmetric anymore on both sides -> yaw
-
-
-### How to carve a nice turn
-
-- look where you want to go, then weight shift, then squeeze the brake
-- safer (you look before turning), more efficient and
-  coordinated (weight shift first), safer (less risk to spin)
 
 ---
 
