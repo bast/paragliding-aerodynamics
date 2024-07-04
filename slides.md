@@ -268,11 +268,23 @@ class: center, middle, inverse
 
 ## Brake application: not the opposite of pushing the speed bar
 
-<img src="img/brake-deflection.png"
-     alt="Deflection when brake lines are pulled"
-     style="width: 600px;" />
+.left-column70[
+  <img src="img/brake-deflection.png"
+       alt="Deflection when brake lines are pulled"
+       style="width: 500px;" />
 
-.cite[[R. Falquier, T. Lolies, U. Ringertz, Longitudinal Flight Mechanics of Paraglider Systems](https://www.diva-portal.org/smash/get/diva2:1359785/FULLTEXT01.pdf)]
+  .cite[[R. Falquier, T. Lolies, U. Ringertz, Longitudinal Flight Mechanics of Paraglider Systems](https://www.diva-portal.org/smash/get/diva2:1359785/FULLTEXT01.pdf)]
+]
+
+.right-column30[
+### Brake range
+
+- No brake: hands fully up, trailing edge not deflected
+
+- Full brake: hands fully down
+
+- Beginners will typically not need the full brake range
+]
 
 ---
 
