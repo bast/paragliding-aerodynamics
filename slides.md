@@ -614,8 +614,6 @@ class: center, middle, inverse
 .cite[From "Nailing the basics of active flying" by Greg Hamerton in the Cross Country Magazine (February/March 2023, p. 36)]
 ]
 
---
-
 .right-column50[
 - if wing is pitched/rolled/yawed away from equilibrium, it has the
   **tendency to return to equilibrium** (above your head)
