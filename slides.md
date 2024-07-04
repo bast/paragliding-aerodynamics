@@ -665,8 +665,6 @@ class: center, middle, inverse
 .cite[(c) 2020 Sebastian Schmied, CC-BY-SA-4.0]
 ]
 
---
-
 .right-column60[
 - aspect ratio = span*span / area
 - you will never have to compute it, you can look it up for any wing
@@ -828,7 +826,7 @@ Weight range refers to **"all up" weight** (take-off weight)
 
 ## Trim
 
-- Line attachments and line lengths determine the shape/camber/trim
+- Line attachments and line lengths determine the shape/camber/trim.
 
 - Trim speed: speed when "hands up" (close to minimal drag)
 
@@ -837,10 +835,8 @@ Weight range refers to **"all up" weight** (take-off weight)
   - A and B lines often lengthen, C and brake lines often shorten over time
   - Wing can deform/stretch/shrink over time
 
-- To trim a wing: bringing it back to trim by adjusting lines (often done by expert)
+- To trim a wing: bringing it back to trim by adjusting lines (often done by expert).
+  **Check the trim when buying a second hand wing**.
 
-- Check your wing at least every 2 years
-
-- **Check the trim when buying a second hand wing**
-
-- It may not be enough to check line lengths alone (wing can deform/stretch/shrink)
+- Check your wing at least every 2 years.
+  It may not be enough to check line lengths alone (wing can deform/stretch/shrink).
