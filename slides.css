@@ -25,7 +25,7 @@ body {
 }
 
 .gray-background {
-  background: #e0e0e0;
+  background: #d6cbd6;
 }
 
 .fat {
@@ -41,7 +41,7 @@ ul {
 h1,
 h2,
 h3 {
-  color: #652F76;
+  color: #71137d;
 }
 
 a {
@@ -49,8 +49,8 @@ a {
 }
 
 .inverse {
-  background: #272822;
-  color: #777872;
+  background: #3A2956;
+  color: #ffffff;
 }
 
 .inverse h1,
