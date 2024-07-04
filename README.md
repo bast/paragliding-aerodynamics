@@ -2,14 +2,10 @@
 
 Collecting notes for teaching material.
 
-
-## Presentation slides: Practical software licensing
-
-Served using [Cicero](https://cicero.xyz), which can
-be [run locally](https://github.com/bast/cicero).
-
 - [Link to slides](https://cicero.xyz/v3/remark/0.14.0/github.com/bast/paragliding-aerodynamics/main/slides.md/).
 - Short link: https://bit.ly/paragliding-aerodynamics
+- Served using [Cicero](https://cicero.xyz), which can
+  be [run locally](https://github.com/bast/cicero).
 
 
 ## Resources
