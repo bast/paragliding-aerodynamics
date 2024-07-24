@@ -6,6 +6,8 @@ class: center, middle, gray-background
 
 Text: CC-BY 4.0
 
+## https://bit.ly/paragliding-aerodynamics
+
 ---
 
 ## Goals
