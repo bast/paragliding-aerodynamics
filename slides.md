@@ -112,10 +112,10 @@ class: center, middle, inverse
 - wing is open in front: cell intakes
 - arc (wing is not flat but curved)
 - stability design
-- wing is flexible/collapsible
 - negative angle of attack makes wing collapse
 - there is pressure inside the wing and it varies
-- we can change the size of wing during flight (voluntarily or involuntarily)
+- wing is flexible/collapsible:
+  we can change the size of wing during flight (voluntarily or involuntarily)
 
 
 ### Controls
@@ -544,7 +544,7 @@ class: center, middle, inverse
 
 ### What this means for landing
 
-- **You want speed on approach** to have more control and possibly a softer landing
+- .emph[You want speed on approach] to have more control and possibly a softer landing
 - When landing at high altitude, you need to be very precise with your flare timing
 
 ---
